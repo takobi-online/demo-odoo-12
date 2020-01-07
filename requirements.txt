@@ -1,0 +1,4 @@
+PyXB==1.2.6
+Unidecode==1.0.22
+codicefiscale==0.9
+asn1crypto==0.24.0
